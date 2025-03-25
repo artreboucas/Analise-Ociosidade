@@ -1,4 +1,4 @@
-#  📊 Análise Ociosidade Berços 
+#  📊 Análise Ociosidade Berços do Ceará
 
 Este projeto processa dados de movimentação portuária para calcular o tempo ocupado e ocioso dos berços dos portos de Mucuripe e Pecém. Sendo utilizado para análise de eficiência operacional e gestão portuária.
 
